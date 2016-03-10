@@ -1,0 +1,106 @@
+body{
+	background: url(ybub.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+.jumbotrons{
+	height:400px;
+}
+
+#backgroundcolor {
+	background-color:rgba(255,255,255,0.7);
+}
+
+.jumbotron .container>h3 {
+	font-size: 4rem;
+}
+
+.jumbotron .container>p {
+	font-size: 2.2rem;
+}
+
+.jumbotron .container {
+	text-align:center;
+	margin-top:70px;
+	margin-bottom:70px;
+	font-size: 10px;
+}
+
+.jumbotrons-image-background1 {
+	background-image: url(http://cdnassets.hw.net/b9/09/7f2ceadf4a458073fb8f4ae60b19/brand-building-wr-1.jpg);
+	background-position:relative;
+	background-size: 100% 100%;
+}
+
+.jumbotrons-image-background2 {
+	background-image: url(http://benchmarkcl.com/wp-content/uploads/2013/06/bcl1-622x220.jpg);
+	background-position:relative;
+	background-size: 100% 100%;
+}
+
+.jumbotrons-image-background3 {
+	background-image: url(http://marketingland.com/wp-content/ml-loads/2014/09/social-media-icon-signs-ss-1920-800x450.jpg);
+	background-position:relative;
+	background-size: 100% 100%;
+}
+
+.jumbotrons-image-background4 {
+	background-image: url(http://www.premiumbeautynews.com/IMG/jpg/800_production_line.jpg);
+	background-position:relative;
+	background-size: 100% 100%;
+}
+
+.jumbotrons-image-background5 {
+	background-image: url(http://footage.framepool.com/shotimg/883201965-research-investigating-botanic-chemical-safety-glasses.jpg);
+	background-position:relative;
+	background-size: 100% 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar-default .navbar-brand>img {
+	max-height: 50px;
+	max-width: 150px;
+	margin-top: -15px;
+}
+
+.navbar-default {
+	opacity: 0.8;
+	border: none;
+}
+
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+color: #F52AC2;  /*Sets the text hover color on navbar*/
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active >   
+ a:hover, .navbar-default .navbar-nav > .active > a:focus {
+color: #F52AC2; /*BACKGROUND color for active*/
+background-color: #D4AD13;
+}
+
+ .navbar-default {
+    background-color: #3B1E01;
+    
+    max-height: 60px;
+}
+.navbar-default .navbar-nav > li > a {
+   color: white; /*Change active text color here*/
+   font-size: 2rem;
+    }
